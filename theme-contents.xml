@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-12-24 04:11" -->
+	<!-- generator="WordPress/5.6" created="2021-01-23 05:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Hotelone Pro</title>
 	<link>http://www.britetechs.com/demo/themes/hotelone-pro</link>
 	<description></description>
-	<pubDate>Thu, 24 Dec 2020 04:11:57 +0000</pubDate>
+	<pubDate>Sat, 23 Jan 2021 05:32:37 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://www.britetechs.com/demo/themes/hotelone-pro</wp:base_site_url>
@@ -70,7 +70,7 @@
 		<wp:tag_name><![CDATA[Room]]></wp:tag_name>
 	</wp:tag>
 			<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[all]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -78,7 +78,7 @@
 		<wp:term_description><![CDATA[Default Category]]></wp:term_description>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[all-event]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -86,7 +86,7 @@
 		<wp:term_description><![CDATA[Default Category]]></wp:term_description>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:term_taxonomy><![CDATA[recipe_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[all-recipe]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -94,7 +94,7 @@
 		<wp:term_description><![CDATA[Default Category]]></wp:term_description>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[room_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[all-room]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -102,133 +102,133 @@
 		<wp:term_description><![CDATA[Default Category]]></wp:term_description>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[anniversary]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Anniversary]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[birthday]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Birthday]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[dance]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Dance]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[29]]></wp:term_id>
+		<wp:term_id>29</wp:term_id>
 		<wp:term_taxonomy><![CDATA[recipe_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[desert]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Desert]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[room_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[double]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Double]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[double-room]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Double Room]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[30]]></wp:term_id>
+		<wp:term_id>30</wp:term_id>
 		<wp:term_taxonomy><![CDATA[recipe_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[drinks]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Drinks]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[engagement]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Engagement]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[fashion]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Fashion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[room_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[king-size]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[King Size]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[king-size-room]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[King Size Room]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[luxury-rooms]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Luxury Rooms]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[31]]></wp:term_id>
+		<wp:term_id>31</wp:term_id>
 		<wp:term_taxonomy><![CDATA[recipe_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[nonveg]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[NonVeg]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[32]]></wp:term_id>
+		<wp:term_id>32</wp:term_id>
 		<wp:term_taxonomy><![CDATA[recipe_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[pureveg]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[PureVeg]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[room_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[queen-size]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Queen Size]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[queen-size]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Queen Size]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:term_taxonomy><![CDATA[portfolio_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[royal-room]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Royal Room]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[room_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[single]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Single]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:term_taxonomy><![CDATA[event_categories]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[wedding]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -239,7 +239,7 @@
 	<wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.6</generator>
 
 		<item>
 		<title>room1</title>
@@ -6319,60 +6319,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[102]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[https://ericsundwall.com/tarot-card-reading-and-meanings/]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[ruthie_barragan@care2.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://ericsundwall.com/tarot-card-reading-and-meanings/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[162.158.18.31]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-12-03 13:53:09]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-12-03 13:53:09]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Ericsundwall.com tarot card reading https://ericsundwall.com/tarot-card-reading-and-meanings/ Ericsundwall.com tarot cards 
-reading]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1607741924.4358880519866943359375;s:5:"event";s:12:"status-trash";s:4:"user";s:5:"admin";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1607741924]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>36</wp:comment_id>
-			<wp:comment_author><![CDATA[dinicrisk]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[saftStaps@margel.xyz]]></wp:comment_author_email>
-			<wp:comment_author_url>https://xbuycheapcialiss.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[172.69.190.65]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-12-11 12:39:21]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-12-11 12:39:21]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[costo cialis 5 mg  rersutitle <a href="https://xbuycheapcialiss.com/" / rel="nofollow ugc">cheap cialis online</a> sussytar Buy Alli Refill]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1607741924.4218170642852783203125;s:5:"event";s:12:"status-trash";s:4:"user";s:5:"admin";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1607741924]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Bedroom Suite</title>
 		<link>http://www.britetechs.com/demo/themes/hotelone-pro/bedroom-suite/</link>
@@ -6414,59 +6361,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 		<wp:meta_value><![CDATA[103]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[http://canadianorderpharmacy.com/]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[fghserf@bigmir.net]]></wp:comment_author_email>
-			<wp:comment_author_url>http://canadianorderpharmacy.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[172.69.10.7]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-06-05 15:21:29]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-06-05 15:21:29]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hello! I could have sworn I've been to this blog before but after reading through some of the post I realized it's new to me. Anyways, I'm definitely delighted I found it and I'll be book-marking and checking back frequently!]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1607741924.439968109130859375;s:5:"event";s:12:"status-trash";s:4:"user";s:5:"admin";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1607741924]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[https://ericsundwall.com/tarot-card-reading-and-meanings/]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[donniecoghlan@gmail.com]]></wp:comment_author_email>
-			<wp:comment_author_url>https://ericsundwall.com/tarot-card-reading-and-meanings/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[172.69.234.137]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-12-04 18:52:10]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-12-04 18:52:10]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Ericsundwall.com tarot card reading near me https://ericsundwall.com/tarot-card-reading-and-meanings/ tarot 
-card meanings pdf]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1607741924.43183994293212890625;s:5:"event";s:12:"status-trash";s:4:"user";s:5:"admin";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1607741924]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					<wp:comment>
 			<wp:comment_id>37</wp:comment_id>
 			<wp:comment_author><![CDATA[elerurl]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[NaiblyDib@aemail.xyz]]></wp:comment_author_email>
@@ -6476,7 +6370,7 @@ card meanings pdf]]></wp:comment_content>
 			<wp:comment_date_gmt><![CDATA[2020-12-12 12:25:16]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Viagra Wholesale China  rersutitle <a href="https://xbuycheapcialiss.com/" / rel="nofollow ugc">cheapest cialis generic online</a> sussytar Achat Amoxicillin 5mg]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
@@ -6520,33 +6414,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[104]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>33</wp:comment_id>
-			<wp:comment_author><![CDATA[dinicrisk]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[saftStaps@margel.xyz]]></wp:comment_author_email>
-			<wp:comment_author_url>https://xbuycheapcialiss.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[172.69.190.65]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-12-10 08:37:24]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-12-10 08:37:24]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Dutasteride Buy Now Medication  rersutitle <a href="https://xbuycheapcialiss.com/" / rel="nofollow ugc">real cialis no generic</a> sussytar Sale isotretinoin cheap legally mastercard accepted]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[trash]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1607741924.427198886871337890625;s:5:"event";s:12:"status-trash";s:4:"user";s:5:"admin";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1607741924]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>Room 3 Column</title>
 		<link>http://www.britetechs.com/demo/themes/hotelone-pro/room-3-column/</link>
@@ -6821,7 +6689,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 			<wp:comment_date_gmt><![CDATA[2020-12-14 07:19:06]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Worldwide isotretinoin by money order in usa price  rersutitle <a href="https://bansocialism.com/" / rel="nofollow ugc">order cialis online</a> sussytar Viagra Prix Vente]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
